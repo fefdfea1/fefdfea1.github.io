@@ -2,7 +2,7 @@ module.exports = {
   title: `fefdfea's Develop`,
   description: `fefdfea의 기술 블로그입니다`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: `https://fefdfea1.github.io/fefdfea1.github-io/`,
+  siteUrl: ``,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
