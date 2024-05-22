@@ -3,6 +3,7 @@ const { NODE_ENV, CONTEXT: NETLIFY_ENV = NODE_ENV } = process.env;
 const metaConfig = require('./gatsby-meta-config');
 
 module.exports = {
+  pathPrefix: '/fefdfea1.github-io',
   siteMetadata: metaConfig,
 
   plugins: [
