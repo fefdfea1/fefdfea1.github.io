@@ -1,5 +1,5 @@
 ---
-emoji: 🧢
+emoji: 😲
 title: Next JS의 각 폴더별 역할
 date: '2024-05-25'
 author: fefdfea
