@@ -3,7 +3,7 @@ emoji: 🧢
 title: Next Js 개발환경 세팅
 date: '2024-05-21 13:33:00'
 author: fefdfea
-tags: Next Js Javascript
+tags: Next_Js Javascript
 categories: Next_JS
 ---
 
@@ -15,6 +15,8 @@ categories: Next_JS
 
 이 블로그의 첫 포스팅은 이전 블로그에서 적으려 했던 Next Js에 대한 주제로 계속 이어나갈까한다. 본래는 모든 내용을 여기로 옮기고 이 블로그를 계속 이어나갈까 생각도 하였지만 그러기에는 워낙 시간이 오래 걸릴 것 같아 velog의 내용을 이어가기로 결정하였다. 만일 이전 블로그의 글이 궁금하다면 위의 header 부분에 존재하는 PrevBlog를 보도록 하자 또한 Next JS에 대한 포스팅은 최종적으로 Mongoose를 이용하여 게시판을 제작하는 것을 목표로 계속 포스팅을 올릴 예정이다.
 
+<br>
+
 ## ✍️ 시작하기 앞서 필요한 세팅
 
 Next Js를 하기 위해서는 최신버전의 Node가 깔려 있는지 확인할 필요가 있으므로 cmd에 아래의 명령어를 입력하여 노드가 최신버전 18버전 이상인지 확인하도록 하자
@@ -22,6 +24,8 @@ Next Js를 하기 위해서는 최신버전의 Node가 깔려 있는지 확인�
 ```javascript
 node - v;
 ```
+
+<br>
 
 ## ✨ CNA를 통한 Next Js 기본 템플릿 생성
 
