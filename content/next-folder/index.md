@@ -1,7 +1,7 @@
 ---
 emoji: 😲
 title: Next JS의 각 폴더별 역할
-date: '2024-05-25'
+date: '2024-05-25 15:00:00'
 author: fefdfea
 tags: Next _Js Javascript
 categories: Next_JS

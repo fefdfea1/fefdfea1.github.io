@@ -1,7 +1,7 @@
 ---
 emoji: 😖
 title: Next JS에서 라우팅 하는법
-date: '2024-05-25'
+date: '2024-05-25 16:00:00'
 author: fefdfea
 tags: Next_Js Javascript
 categories: Next_JS

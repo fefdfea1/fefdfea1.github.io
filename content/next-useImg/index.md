@@ -1,7 +1,7 @@
 ---
 emoji: 😺
 title: Next Js에서 제공하는 이미지 사용법
-date: '2024-05-21'
+date: '2024-05-25 17:00:00'
 author: fefdfea
 tags: Next_Js Javascript
 categories: Next_JS
