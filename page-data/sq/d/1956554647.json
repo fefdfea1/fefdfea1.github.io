@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"Next Js 개발환경 세팅","categories":"Next_JS"},"fields":{"slug":"/gatsby-next/"}}}]}}}
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"Next JS의 각 폴더별 역할","categories":"Next_JS"},"fields":{"slug":"/next-folder/"}}},{"node":{"frontmatter":{"title":"Next Js 개발환경 세팅","categories":"Next_JS"},"fields":{"slug":"/next-createNext/"}}}]}}}
