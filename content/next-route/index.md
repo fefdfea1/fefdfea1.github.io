@@ -3,7 +3,7 @@ emoji: 😖
 title: Next JS에서 라우팅 하는법
 date: '2024-05-25'
 author: fefdfea
-tags: Next _Js Javascript
+tags: Next_Js Javascript
 categories: Next_JS
 ---
 

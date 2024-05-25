@@ -1,7 +1,7 @@
 ---
 emoji: 🧢
 title: Next Js 개발환경 세팅
-date: '2024-05-21 13:33:00'
+date: '2024-05-21'
 author: fefdfea
 tags: Next_Js Javascript
 categories: Next_JS
