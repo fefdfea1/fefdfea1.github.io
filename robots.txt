@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://fefdfea1.github.io/sitemap/sitemap-index.xml
+Host: https://fefdfea1.github.io
