@@ -14,7 +14,7 @@ module.exports = {
     name: `김창규`,
     bio: {
       role: `개발자`,
-      description: ['더 좋은 코드를 생각하는', '가치있는 것을 만드는', '이유를 가지고 개발하는'],
+      description: ['더 좋은 코드를 생각하는', '가치있는 것을 만드는', '사용이 아닌 활용을 하는'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
