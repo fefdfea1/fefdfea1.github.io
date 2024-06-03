@@ -39,4 +39,4 @@ if( div instanceof HTMLDivElement ){
 }
 ```
 
-해당 코드에서는 div가 HTMLDivElement의 객체를 상속받은 태그인지를 확인하여 Boolean값으로 반환하는 코드를 if문의 조건문으로 작성하였다. 이러한 방식을 통해 div의 조건문이 true가 반호나이 된다면 이는 div태그가 맞다는 것을 나타낸다.
+해당 코드에서는 div가 HTMLDivElement의 객체를 상속받은 태그인지를 확인하여 Boolean값으로 반환하는 코드를 if문의 조건문으로 작성하였다. 이러한 방식을 통해 div의 조건문이 true가 반환이 된다면 이는 div태그가 맞다는 것을 나타낸다.
