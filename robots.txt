@@ -1,3 +1,4 @@
 User-agent: *
-Sitemap: https://fefdfea1.github.io/sitemap/sitemap-index.xml
+Allow: /
+Sitemap: https://fefdfea1.github.io/sitemap.xml
 Host: https://fefdfea1.github.io
